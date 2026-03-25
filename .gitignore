@@ -6,3 +6,4 @@ __pycache__/
 client_secret.json
 token.pickle
 *.pickle
+node_modules/
